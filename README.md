@@ -1,42 +1,72 @@
 # Student Database Management System  
 
-A **C-based project** for efficiently managing student records. This system allows users to **add, update, delete, search, and display student details** using a simple command-line interface.  
+A C-based project for managing student records. This system allows users to add, update, delete, search, and display student details while storing data in a text file for persistence.
 
-## **Features**  
-✅ Add new student records  
-✅ Delete existing student records  
-✅ Update student details  
-✅ Search for a student by ID or name  
-✅ Display all student records  
-✅ Data stored using **file handling** for persistence  
+📌 Features
+✅ Add new student records
+✅ Modify existing student records
+✅ Delete student records
+✅ Search for a student by ID
+✅ Display all student records
+✅ Store data using file handling for persistence
 
-## **Technologies Used**  
-- **C Programming**  
-- **File Handling (to store student data persistently)**  
+🛠 Technologies Used
+C Programming
+File Handling (Text File Storage)
+Code::Blocks (for development, optional)
+📂 Project Structure
+makefile
+Copy
+Edit
+📦 Student-Database-Management-System  
+ ├── 📄 main.c                 # Main source code  
+ ├── 📄 main.exe               # Compiled executable (Windows)  
+ ├── 📄 Student's Record.txt   # Stored student data  
+ ├── 📄 README.md              # Project documentation  
+ ├── 📂 CodeBlocks_Project/    # Code::Blocks project files (if applicable)  
+🚀 How to Run the Project
+1️⃣ Compile the Code
+Open a terminal or command prompt and run:
 
-## **How to Run the Project**  
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/anshu0118/Student-Database-Management-System.git
-   cd Student-Database-Management-System
-   ```  
-2. **Compile the Code**  
-   ```bash
-   gcc student_db.c -o student_db.exe
-   ```  
-3. **Run the Program**  
-   ```bash
-   ./student_db.exe
-   ```  
+sh
+Copy
+Edit
+gcc main.c -o student_db
+2️⃣ Run the Program
+On Linux/macOS:
 
-## **Project Structure**  
-```
-📂 Student-Database-Management-System  
- ├── 📄 student_db.c   # Main program file  
- ├── 📄 student_db.h   # Header file (if applicable)  
- ├── 📄 README.md      # Project documentation  
- ├── 📂 data/          # Folder for storing student records (if applicable)  
-```  
+sh
+Copy
+Edit
+./student_db
+On Windows:
 
-## **License**  
-This project is **open-source** and free to use.  
+sh
+Copy
+Edit
+student_db.exe
+3️⃣ Using Code::Blocks (Optional)
+Open the Student's Record.cbp file in Code::Blocks
+Build and run the project
+📝 Sample Student Record Format (Stored in Student's Record.txt)
+yaml
+Copy
+Edit
+Student Name: John Doe  
+ID: 123456  
+Section: A  
+Department: Computer Science  
+University: XYZ University  
+Blood Group: O+  
+Phone Number: 9876543210  
+Father's Name: Mr. Doe  
+Mother's Name: Mrs. Doe  
+Present Address: New York  
+Permanent Address: New York  
+🤝 Contributors
+👤 Anshuman Kar
+
+📜 License
+This project is open-source and free to use.
+
+
