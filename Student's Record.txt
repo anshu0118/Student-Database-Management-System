@@ -1,0 +1,79 @@
+
+
+			Student's Details
+		_________________________________
+
+	Student Name: Nikhil Mahto
+	ID: -2093946706
+	Section: Java 1
+	Semester: 
+	Department: CSE
+	University Name: CGU
+	Student Blood Group: B+
+	University Current Semester Result: 8.81
+	University Overall Result: 8.71
+
+
+			Student's Background
+		____________________________________
+
+	College Name: CGU
+	H.S.C Passing Year: 2019
+	H.S.C Result in GPA: 8.90
+	H.S.C Board: CBSE
+	School Name: Army Public School
+	S.S.C Passing Year: 2021
+	S.S.C Result in GPA: 8.70
+	S.S.C Board: CBSE
+
+
+			Student's Contract Information
+		_____________________________________________
+
+	Student's Phone Number: 9113718793
+	Father's Name: M N Mahto
+	Mother's Name: Sima Mahto
+	Father's Phone Number: 772204
+	Mother's Phone Number: 0
+	Present Address: Ranchi
+	Permanent Address: Ranchi
+	Other's Details and Comment: Na
+
+			Student's Details
+		_________________________________
+
+	Student Name: Swayam S Nayak
+	ID: 220102025
+	Section: Java 2
+	Semester: 66h
+	Department: CSE
+	University Name: CGU
+	Student Blood Group: AB+
+	University Current Semester Result: 8.91
+	University Overall Result: 9.10
+
+
+			Student's Background
+		____________________________________
+
+	College Name: CGU
+	H.S.C Passing Year: 2020
+	H.S.C Result in GPA: 8.60
+	H.S.C Board: CBSE
+	School Name: NS school
+	S.S.C Passing Year: 2022
+	S.S.C Result in GPA: 8.90
+	S.S.C Board: CBSE
+
+
+			Student's Contract Information
+		_____________________________________________
+
+	Student's Phone Number: 9175522655
+	Father's Name: K s Nayak
+	Mother's Name:  KND Nakyak
+	Father's Phone Number: 58498434684
+	Mother's Phone Number: 684684684
+	Present Address: BBSR
+	Permanent Address: BBSR
+	Other's Details and Comment: Na
